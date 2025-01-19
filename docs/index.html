@@ -25,11 +25,25 @@
             /* Pleasant green header */
         }
 
+        .search-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .search-container input {
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
         .table-container {
             width: 100%;
             /* Full width of the screen */
-            height: calc(100vh - 80px);
-            /* Use available height minus header */
+            height: calc(100vh - 160px);
+            /* Use available height minus header and search */
             overflow-y: auto;
             /* Scroll only if content overflows */
             border-radius: 8px;
@@ -99,6 +113,9 @@
 
 <body>
     <h2>ETF Weightage Data</h2>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search for a ticker..." oninput="filterTable()">
+    </div>
     <div class="table-container">
         <table id="csvTable"></table>
     </div>
@@ -137,6 +154,26 @@
                     table.appendChild(tableRow); // Add subsequent rows directly to <table>
                 }
             });
+        }
+
+        function filterTable() {
+            const input = document.getElementById('searchInput').value.toUpperCase();
+            const table = document.getElementById('csvTable');
+            const rows = table.getElementsByTagName('tr');
+
+            for (let i = 1; i < rows.length; i++) { // Skip the header row
+                const cells = rows[i].getElementsByTagName('td');
+                let match = false;
+
+                for (let j = 0; j < cells.length; j++) {
+                    if (cells[j].textContent.toUpperCase().indexOf(input) > -1) {
+                        match = true;
+                        break;
+                    }
+                }
+
+                rows[i].style.display = match ? '' : 'none'; // Show or hide rows
+            }
         }
     </script>
 </body>
