@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "etf-screener-backend"
+version = "0.1.0"
+description = "A Python backend application for visualizing Exchange-Traded Funds (ETFs)."
+authors = ["Parth Rathod"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+pydantic = "^2.10.5"
+
+[tool.poetry.scripts]
+run_cli = "etf_screener_backend.cli.run_cli:start"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

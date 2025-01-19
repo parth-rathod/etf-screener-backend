@@ -1,0 +1,36 @@
+﻿Ticker,Name,Sector,Weight(%)
+AVGO,BROADCOM INC,Information Technology,11.00
+NVDA,NVIDIA CORP,Information Technology,8.15
+AMD,ADVANCED MICRO DEVICES INC,Information Technology,7.12
+QCOM,QUALCOMM INC,Information Technology,5.99
+TXN,TEXAS INSTRUMENT INC,Information Technology,5.68
+MRVL,MARVELL TECHNOLOGY INC,Information Technology,4.84
+TSM,TAIWAN SEMICONDUCTOR MANUFACTURING,Information Technology,4.06
+KLAC,KLA CORP,Information Technology,4.02
+LRCX,LAM RESEARCH CORP,Information Technology,3.98
+AMAT,APPLIED MATERIAL INC,Information Technology,3.83
+MU,MICRON TECHNOLOGY INC,Information Technology,3.82
+ASML,ASML HOLDING ADR REPRESENTING NV,Information Technology,3.81
+ADI,ANALOG DEVICES INC,Information Technology,3.77
+NXPI,NXP SEMICONDUCTORS NV,Information Technology,3.51
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,3.44
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,3.23
+ON,ON SEMICONDUCTOR CORP,Information Technology,3.18
+INTC,INTEL CORPORATION CORP,Information Technology,3.12
+TER,TERADYNE INC,Information Technology,2.58
+ENTG,ENTEGRIS INC,Information Technology,1.79
+SWKS,SKYWORKS SOLUTIONS INC,Information Technology,1.69
+ONTO,ONTO INNOVATION INC,Information Technology,1.10
+LSCC,LATTICE SEMICONDUCTOR CORP,Information Technology,0.91
+MKSI,MKS INSTRUMENTS INC,Information Technology,0.89
+STM,STMICROELECTRONICS ADR NV,Information Technology,0.79
+OLED,UNIVERSAL DISPLAY CORP,Information Technology,0.79
+QRVO,QORVO INC,Information Technology,0.79
+ASX,ASE TECHNOLOGY HOLDING ADR REPRESE,Information Technology,0.78
+ARM,ARM HOLDINGS AMERICAN DEPOSITARY S,Information Technology,0.62
+UMC,UNITED MICRO ELECTRONICS ADR REP,Information Technology,0.55
+XTSLA,BLK CSH FND TREASURY SL AGENCY,Cash and/or Derivatives,0.12
+USD,USD CASH,Cash and/or Derivatives,0.02
+WFFUT,CASH COLLATERAL USD WFFUT,Cash and/or Derivatives,0.01
+RTYH5,RUSSELL 2000 EMINI CME MAR 25,Cash and/or Derivatives,0.00
+IXTH5,EMINI TECHNOLOGY SELECT SECTOR MAR,Cash and/or Derivatives,0.00
