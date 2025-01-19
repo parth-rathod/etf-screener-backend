@@ -69,7 +69,9 @@ class Pipeline:
         """
 
         weights["Ticker"] = self.all_tickers.keys()
-        weights["Name"] = self.all_tickers.values()
+        weights["Name"] = list(
+            map(lambda x: x.replace(",", ""), self.all_tickers.values())
+        )
 
         final_df = pd.DataFrame(weights)
 
