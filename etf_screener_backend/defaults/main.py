@@ -1,8 +1,15 @@
+import os
+import etf_screener_backend
+
+data_root = os.path.join(os.path.dirname(etf_screener_backend.__file__), "../data")
+
 ALL_FILES = {
-    "DGRO": "/Users/parthrathod/Documents/Projects/ETF_SCREENER/etf-screener-backend/data/DGRO.csv",
-    "SCHD": "/Users/parthrathod/Documents/Projects/ETF_SCREENER/etf-screener-backend/data/SCHD.csv",
-    "SOXX": "/Users/parthrathod/Documents/Projects/ETF_SCREENER/etf-screener-backend/data/SOXX.csv",
-    "XLK": "/Users/parthrathod/Documents/Projects/ETF_SCREENER/etf-screener-backend/data/XLK.csv",
+    "DGRO": os.path.join(data_root, "DGRO.csv"),
+    "SCHD": os.path.join(data_root, "SCHD.csv"),
+    "SOXX": os.path.join(data_root, "SOXX.csv"),
+    "XLK": os.path.join(data_root, "XLK.csv"),
+    "FLCOX": os.path.join(data_root, "FLCOX.csv"),
+    "FSPGX": os.path.join(data_root, "FSPGX.csv"),
 }
 
 
