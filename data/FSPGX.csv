@@ -1,0 +1,338 @@
+﻿Ticker,Name,Weight(%)
+AAPL,Apple Inc,12.17 
+NVDA,NVIDIA Corp,10.67 
+MSFT,Microsoft Corp,10.64 
+AMZN,Amazon.com Inc,6.99 
+META,Meta Platforms Inc Class A,4.36 
+TSLA,Tesla Inc,3.81 
+GOOGL,Alphabet Inc Class A,3.78 
+AVGO,Broadcom Inc,3.58 
+GOOG,Alphabet Inc Class C,3.14 
+LLY,Eli Lilly & Co,2.10 
+V,Visa Inc Class A,1.69 
+MA,Mastercard Inc Class A,1.46 
+COST,Costco Wholesale Corp,1.38 
+NFLX,Netflix Inc,1.30 
+HD,Home Depot Inc/The,1.05 
+CRM,Salesforce Inc,0.89 
+ORCL,Oracle Corp,0.89 
+MRK,Merck & Co Inc,0.86 
+NOW,Servicenow Inc,0.74 
+ADBE,Adobe Inc,0.67 
+ISRG,Intuitive Surgical Inc,0.63 
+INTU,Intuit Inc,0.58 
+PEP,PepsiCo Inc,0.56 
+QCOM,QUALCOMM Inc,0.55 
+BKNG,Booking Holdings Inc,0.52 
+PLTR,Palantir Technologies Inc Class A,0.52 
+KO,Coca-Cola Co/The,0.47 
+ABBV,AbbVie Inc,0.46 
+AMD,Advanced Micro Devices Inc,0.44 
+BX,Blackstone Inc,0.42 
+AMAT,Applied Materials Inc,0.42 
+UBER,Uber Technologies Inc,0.42 
+PGR,Progressive Corp/The,0.40 
+PANW,Palo Alto Networks Inc,0.40 
+ANET,Arista Networks Inc,0.39 
+ADP,Automatic Data Processing Inc,0.38 
+AMGN,Amgen Inc,0.37 
+LRCX,Lam Research Corp,0.32 
+PG,Procter & Gamble Co/The,0.30 
+AMT,American Tower Corp,0.29 
+APP,AppLovin Corp Class A,0.29 
+KLAC,KLA Corp,0.29 
+CMG,Chipotle Mexican Grill Inc,0.28 
+CDNS,Cadence Design Systems Inc,0.28 
+WM,Waste Management Inc,0.28 
+TJX,TJX Cos Inc/The,0.28 
+SBUX,Starbucks Corp,0.27 
+CRWD,Crowdstrike Holdings Inc Class A,0.27 
+MCO,Moody’s Corp,0.25 
+SNPS,Synopsys Inc,0.25 
+SHW,Sherwin-Williams Co/The,0.25 
+UNP,Union Pacific Corp,0.23 
+APO,Apollo Global Management Inc,0.22 
+ADSK,Autodesk Inc,0.22 
+ORLY,O’Reilly Automotive Inc,0.22 
+AXP,American Express Co,0.21 
+ZTS,Zoetis Inc Class A,0.21 
+CTAS,Cintas Corp,0.20 
+ABNB,Airbnb Inc Class A,0.20 
+NKE,NIKE Inc Class B,0.19 
+WDAY,Workday Inc Class A,0.19 
+TTD,Trade Desk Inc (The) Class A,0.18 
+VRTX,Vertex Pharmaceuticals Inc,0.18 
+DASH,DoorDash Inc Class A,0.18 
+NQH5,Contracts (United States),0.17 
+ECL,Ecolab Inc,0.17 
+AZO,AutoZone Inc,0.17 
+SNOW,Snowflake Inc Class A,0.17 
+FTNT,Fortinet Inc,0.17 
+APH,Amphenol Corp Class A,0.16 
+GS,Goldman Sachs Group Inc/The,0.16 
+AMP,Ameriprise Financial Inc,0.16 
+VST,Vistra Corp,0.16 
+CPRT,Copart Inc,0.16 
+LULU,Lululemon Athletica Inc,0.15 
+DDOG,Datadog Inc Class A,0.15 
+AXON,Axon Enterprise Inc,0.15 
+COIN,Coinbase Global Inc Class A,0.14 
+VRT,Vertiv Holdings Co Class A,0.14 
+CL,Colgate-Palmolive Co,0.14 
+FICO,Fair Isaac Corp,0.14 
+GWW,WW Grainger Inc,0.14 
+VRSK,Verisk Analytics Inc,0.13 
+TEAM,Atlassian Corp Class A,0.13 
+SYK,Stryker Corp,0.13 
+TRGP,Targa Resources Corp,0.13 
+GE,GE Aerospace,0.13 
+COR,Cencora Inc,0.13 
+FI,Fiserv Inc,0.13 
+IT,Gartner Inc,0.12 
+MSI,Motorola Solutions Inc,0.12 
+FAST,Fastenal Co,0.12 
+ODFL,Old Dominion Freight Line Inc,0.12 
+HUBS,HubSpot Inc,0.12 
+IDXX,IDEXX Laboratories Inc,0.11 
+LMT,Lockheed Martin Corp,0.11 
+ARES,Ares Management Corp Class A,0.11 
+NET,Cloudflare Inc Class A,0.11 
+MCK,McKesson Corp,0.11 
+UNH,UnitedHealth Group Inc,0.11 
+VEEV,Veeva Systems Inc Class A,0.11 
+DECK,Deckers Outdoor Corp,0.11 
+RBLX,ROBLOX Corp Class A,0.10 
+HLT,Hilton Worldwide Holdings Inc,0.10 
+DXCM,Dexcom Inc,0.10 
+MNST,Monster Beverage Corp,0.10 
+KKR,KKR & Co Inc Class A,0.10 
+TSCO,Tractor Supply Co,0.10 
+TT,Trane Technologies PLC,0.10 
+ITW,Illinois Tool Works Inc,0.09 
+MPWR,Monolithic Power Systems Inc,0.09 
+GDDY,GoDaddy Inc Class A,0.09 
+ALNY,Alnylam Pharmaceuticals Inc,0.09 
+MSCI,MSCI Inc,0.09 
+CAT,Caterpillar Inc,0.09 
+LNG,Cheniere Energy Inc,0.08 
+LPLA,LPL Financial Holdings Inc,0.08 
+BR,Broadridge Financial Solutions Inc,0.08 
+HES,Hess Corp,0.08 
+SYY,Sysco Corp,0.08 
+EXPE,Expedia Group Inc Class A,0.08 
+CPAY,Corpay Inc,0.08 
+HON,Honeywell International Inc,0.08 
+TYL,Tyler Technologies Inc,0.07 
+TPL,Texas Pacific Land Corp,0.07 
+TXN,Texas Instruments Inc,0.07 
+BA,Boeing Co,0.07 
+LYV,Live Nation Entertainment Inc,0.07 
+CLX,Clorox Co/The,0.07 
+SQ,Block Inc Class A,0.07 
+LII,Lennox International Inc,0.07 
+RCL,Royal Caribbean Cruises Ltd,0.06 
+DOCU,DocuSign Inc,0.06 
+PODD,Insulet Corp,0.06 
+NTRA,Natera Inc,0.06 
+KMB,Kimberly-Clark Corp,0.06 
+BURL,Burlington Stores Inc,0.06 
+TER,Teradyne Inc,0.06 
+LVS,Las Vegas Sands Corp,0.06 
+ULTA,Ulta Beauty Inc,0.06 
+IRM,Iron Mountain Inc,0.06 
+PINS,Pinterest Inc Class A,0.06 
+CAH,Cardinal Health Inc,0.06 
+DKNG,DraftKings Inc Class A,0.06 
+ZS,Zscaler Inc,0.06 
+MDB,MongoDB Inc Class A,0.06 
+MANH,Manhattan Associates Inc,0.06 
+TOST,Toast Inc Class A,0.06 
+PSTG,Pure Storage Inc Class A,0.06 
+BAH,Booz Allen Hamilton Holding Corp Class A,0.06 
+PAYX,Paychex Inc,0.06 
+DT,Dynatrace Inc,0.05 
+DT,Dynatrace Inc,0.05 
+ESH5,Indices Contracts (United States),0.05 
+SMCI,Super Micro Computer Inc,0.05 
+HEI.A,HEICO Corp Class A,0.05 
+XPO,XPO Inc,0.05 
+ENTG,Entegris Inc,0.05 
+EQH,Equitable Holdings Inc,0.05 
+FIX,Comfort Systems USA Inc,0.05 
+YUM,Yum! Brands Inc,0.05 
+WST,West Pharmaceutical Services Inc,0.05 
+MMC,Marsh & McLennan Cos Inc,0.05 
+SPG,Simon Property Group Inc,0.05 
+PWR,Quanta Services Inc,0.05 
+TDG,TransDigm Group Inc,0.05 
+ELV,Elevance Health Inc,0.05 
+WSM,Williams-Sonoma Inc,0.05 
+HCA,HCA Healthcare Inc,0.05 
+NBIX,Neurocrine Biosciences Inc,0.05 
+MCD,McDonald’s Corp,0.05 
+WAT,Waters Corp,0.05 
+PTC,PTC Inc,0.05 
+MMM,3M Co,0.04 
+ROL,Rollins Inc,0.04 
+POOL,Pool Corp,0.04 
+DUOL,Duolingo Inc Class A,0.04 
+OWL,Blue Owl Capital Inc Class A,0.04 
+TXRH,Texas Roadhouse Inc,0.04 
+CDW,CDW Corp/DE,0.04 
+DRI,Darden Restaurants Inc,0.04 
+ROST,Ross Stores Inc,0.04 
+VLTO,Veralto Corp,0.04 
+NCLH,Norwegian Cruise Line Holdings Ltd,0.04 
+CEG,Constellation Energy Corp,0.04 
+URI,United Rentals Inc,0.04 
+SCHW,Charles Schwab Corp/The,0.04 
+SRPT,Sarepta Therapeutics Inc,0.04 
+BRO,Brown & Brown Inc,0.04 
+NTAP,NetApp Inc,0.04 
+HEI,HEICO Corp,0.04 
+MOH,Molina Healthcare Inc,0.04 
+KNSL,Kinsale Capital Group Inc,0.04 
+TPX,Tempur Sealy International Inc,0.03 
+CHDN,Churchill Downs Inc,0.03 
+MUSA,Murphy USA Inc,0.03 
+ALGN,Align Technology Inc,0.03 
+RMD,ResMed Inc,0.03 
+ENPH,Enphase Energy Inc,0.03 
+MORN,Morningstar Inc,0.03 
+VMC,Vulcan Materials Co,0.03 
+PEN,Penumbra Inc,0.03 
+PCTY,Paylocity Holding Corp,0.03 
+ESTC,Elastic NV,0.03 
+MS,Morgan Stanley,0.03 
+ITCI,Intra-Cellular Therapies Inc,0.03 
+CAVA,Cava Group Inc,0.03 
+EW,Edwards Lifesciences Corp,0.03 
+MEDP,Medpace Holdings Inc,0.03 
+WING,Wingstop Inc,0.03 
+EME,EMCOR Group Inc,0.03 
+PCOR,Procore Technologies Inc,0.03 
+AAON,AAON Inc,0.03 
+ALL,Allstate Corp/The,0.03 
+EXEL,Exelixis Inc,0.03 
+CVNA,Carvana Co Class A,0.03 
+LNW,Light & Wonder Inc Class A,0.03 
+HPQ,HP Inc,0.03 
+SMAR,Smartsheet Inc Class A,0.03 
+NRG,NRG Energy Inc,0.03 
+MRVL,Marvell Technology Inc,0.03 
+TREX,Trex Co Inc,0.03 
+PSA,Public Storage Operating Co,0.02 
+DVA,DaVita Inc,0.02 
+SAIA,Saia Inc,0.02 
+CFLT,Confluent Inc Class A,0.02 
+FWONK,Liberty Media Corp-Liberty Formula One Class C,0.02 
+GTLB,Gitlab Inc Class A,0.02 
+CI,Cigna Group/The,0.02 
+HAS,Hasbro Inc,0.02 
+ELF,elf Beauty Inc,0.02 
+LSCC,Lattice Semiconductor Corp,0.02 
+PAYC,Paycom Software Inc,0.02 
+RYAN,Ryan Specialty Holdings Inc Class A,0.02 
+BSY,Bentley Systems Inc Class B,0.02 
+FDS,FactSet Research Systems Inc,0.02 
+CNM,Core & Main Inc Class A,0.02 
+FOUR,Shift4 Payments Inc Class A,0.02 
+EFX,Equifax Inc,0.02 
+GWRE,Guidewire Software Inc,0.02 
+REGN,Regeneron Pharmaceuticals Inc,0.02 
+EL,Estee Lauder Cos Inc/The Class A,0.02 
+EXP,Eagle Materials Inc,0.02 
+TW,Tradeweb Markets Inc Class A,0.02 
+MTN,Vail Resorts Inc,0.02 
+OKTA,Okta Inc Class A,0.02 
+AVY,Avery Dennison Corp,0.02 
+APPF,Appfolio Inc Class A,0.02 
+INSP,Inspire Medical Systems Inc,0.02 
+LAZ,Lazard Inc Class A,0.02 
+WFRD,Weatherford International PLC,0.02 
+MKL,Markel Group Inc,0.02 
+DPZ,Domino’s Pizza Inc,0.02 
+IONS,Ionis Pharmaceuticals Inc,0.02 
+DELL,Dell Technologies Inc Class C,0.02 
+EQIX,Equinix Inc,0.02 
+AJG,Arthur J Gallagher & Co,0.02 
+AZEK,AZEK Co Inc/The Class A,0.02 
+VVV,Valvoline Inc,0.02 
+PATH,UiPath Inc Class A,0.02 
+CELH,Celsius Holdings Inc,0.02 
+FIVE,Five Below Inc,0.02 
+PLNT,Planet Fitness Inc Class A,0.02 
+LPX,Louisiana-Pacific Corp,0.02 
+GNRC,Generac Holdings Inc,0.02 
+NTNX,Nutanix Inc Class A,0.02 
+VKTX,Viking Therapeutics Inc,0.02 
+ZBRA,Zebra Technologies Corp Class A,0.01 
+PEGA,Pegasystems Inc,0.01 
+BRKR,Bruker Corp,0.01 
+EXAS,Exact Sciences Corp,0.01 
+IQV,IQVIA Holdings Inc,0.01 
+HCP,HashiCorp Inc Class A,0.01 
+JEF,Jefferies Financial Group Inc,0.01 
+ETSY,Etsy Inc,0.01 
+FND,Floor & Decor Holdings Inc Class A,0.01 
+RARE,Ultragenyx Pharmaceutical Inc,0.01 
+MASI,Masimo Corp,0.01 
+JLL,Jones Lang LaSalle Inc,0.01 
+RPM,RPM International Inc,0.01 
+OLED,Universal Display Corp,0.01 
+HSY,Hershey Co/The,0.01 
+GEHC,GE HealthCare Technologies Inc,0.01 
+APLS,Apellis Pharmaceuticals Inc,0.01 
+CHH,Choice Hotels International Inc,0.01 
+TWLO,Twilio Inc Class A,0.01 
+LYFT,Lyft Inc Class A,0.01 
+WMS,Advanced Drainage Systems Inc,0.01 
+LW,Lamb Weston Holdings Inc,0.01 
+ROK,Rockwell Automation Inc,0.01 
+FIVN,Five9 Inc,0.01 
+U,Unity Software Inc,0.01 
+MSTR,MicroStrategy Inc Class A,0.01 
+TDC,Teradata Corp,0.01 
+LECO,Lincoln Electric Holdings Inc,0.01 
+RNG,RingCentral Inc Class A,0.01 
+UHAL.B,U-Haul Holding Co Class N,0.01 
+HWM,Howmet Aerospace Inc,0.01 
+LAMR,Lamar Advertising Co Class A,0.01 
+SOFI,SoFi Technologies Inc Class A,0.01 
+EXPD,Expeditors International of Washington Inc,0.01 
+EG,Everest Group Ltd,0.01 
+CASY,Casey’s General Stores Inc,0.01 
+FERG,Ferguson Enterprises Inc,0.01 
+CACC,Credit Acceptance Corp,0.01 
+TTEK,Tetra Tech Inc,0.01 
+BROS,Dutch Bros Inc Class A,0.01 
+CSL,Carlisle Cos Inc,0.01 
+FRPT,Freshpet Inc,0.01 
+DBX,Dropbox Inc Class A,0.01 
+SITE,SiteOne Landscape Supply Inc,0.01 
+BILL,BILL Holdings Inc,0.01 
+ONTO,Onto Innovation Inc,0.01 
+BWXT,BWX Technologies Inc,0.01 
+AWI,Armstrong World Industries Inc,0.01 
+LOAR,Loar Holdings Inc,0.01 
+PR,Permian Resources Corp Class A,0.01 
+LBRDK,Liberty Broadband Corp Class C,0.01 
+AM,Antero Midstream Corp,0.01 
+CE,Celanese Corp,0.01 
+NXST,Nexstar Media Group Inc,0.01 
+PFGC,Performance Food Group Co,0.01 
+MLM,Martin Marietta Materials Inc,0.01 
+WSC,WillScot Holdings Corp,0.01 
+NCNO,nCino Inc,0.01 
+EQT,Eqt Corp,0.01 
+DJT,Trump Media & Technology Group Corp,0.01 
+DV,DoubleVerify Holdings Inc,0.01 
+TKO,TKO Group Holdings Inc Class A,0.01 
+LOPE,Grand Canyon Education Inc,0.01 
+BLDR,Builders FirstSource Inc,0.01 
+CLF,Cleveland-Cliffs Inc,0.01 
+VNOM,Viper Energy Inc Class A,0.01 
+HRB,H&R Block Inc,0.01 
+ROKU,Roku Inc Class A,0.01 
+WEN,Wendy’s Co/The,0.01 
+ALLY,Ally Financial Inc,0.01 
