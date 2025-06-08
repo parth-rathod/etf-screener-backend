@@ -1,0 +1,239 @@
+Ticker,Name,Weight(%)
+AAPL,Apple Inc	,6.76	
+MSFT,Microsoft Corp	,6.22	
+NVDA,NVIDIA Corp	,5.65	
+AMZN,Amazon.com Inc	,3.68	
+META,Meta Platforms Inc Class A	,2.55	
+BRK/B,Berkshire Hathaway Inc Class B	,2.07	
+GOOGL,Alphabet Inc Class A	,1.96	
+AVGO,Broadcom Inc	,1.91	
+TSLA,Tesla Inc	,1.67	
+GOOG,Alphabet Inc Class C	,1.61	
+LLY,Eli Lilly and Co	,1.50	
+JPM,JPMorgan Chase & Co	,1.42	
+V,Visa Inc Class A	,1.25	
+NFLX,Netflix Inc	,1.02	
+XOM,Exxon Mobil Corp	,0.97	
+MA,Mastercard Inc Class A	,0.94	
+COST,Costco Wholesale Corp	,0.93	
+WMT,Walmart Inc	,0.89	
+PG,Procter & Gamble Co	,0.81	
+UNH,UnitedHealth Group Inc	,0.80	
+JNJ,Johnson & Johnson	,0.80	
+HD,The Home Depot Inc	,0.76	
+ABBV,AbbVie Inc	,0.73	
+KO,Coca-Cola Co	,0.59	
+PM,Philip Morris International Inc	,0.56	
+CRM,Salesforce Inc	,0.54	
+BAC,Bank of America Corp	,0.54	
+PLTR,Palantir Technologies Inc Ordinary Share...	,0.51	
+WFC,Wells Fargo & Co	,0.49	
+CSCO,Cisco Systems Inc	,0.49	
+CVX,Chevron Corp	,0.48	
+ABT,Abbott Laboratories	,0.48	
+MCD,McDonald's Corp	,0.48	
+ORCL,Oracle Corp	,0.48	
+IBM,International Business Machines Corp	,0.47	
+GE,GE Aerospace	,0.46	
+MRK,Merck & Co Inc	,0.46	
+LIN,Linde PLC	,0.46	
+NOW,ServiceNow Inc	,0.42	
+T,AT&T Inc	,0.42	
+ACN,Accenture PLC Class A	,0.40	
+VZ,Verizon Communications Inc	,0.39	
+PEP,PepsiCo Inc	,0.39	
+ISRG,Intuitive Surgical Inc	,0.39	
+INTU,Intuit Inc	,0.37	
+BKNG,Booking Holdings Inc	,0.36	
+RTX,RTX Corp	,0.36	
+UBER,Uber Technologies Inc	,0.36	
+TMO,Thermo Fisher Scientific Inc	,0.35	
+QCOM,Qualcomm Inc	,0.35	
+PGR,Progressive Corp	,0.35	
+ADBE,Adobe Inc	,0.35	
+GS,The Goldman Sachs Group Inc	,0.35	
+DIS,The Walt Disney Co	,0.35	
+AMD,Advanced Micro Devices Inc	,0.33	
+AMGN,Amgen Inc	,0.33	
+SPGI,S&P Global Inc	,0.33	
+BSX,Boston Scientific Corp	,0.32	
+AXP,American Express Co	,0.31	
+CAT,Caterpillar Inc	,0.31
+TJX	,TJX Companies Inc	,0.31	
+TXN,	Texas Instruments Inc	,0.31	
+MS,	Morgan Stanley	,0.30	
+NEE,	NextEra Energy Inc	,0.29	
+SCHW,	Charles Schwab Corp	,0.29	
+PFE,	Pfizer Inc	,0.29	
+BA,	Boeing Co	,0.29	
+HON,Honeywell International Inc	,0.29	
+GILD,	Gilead Sciences Inc	,0.28	
+BLK,	BlackRock Inc	,0.28	
+VRTX,	Vertex Pharmaceuticals Inc	,0.28	
+UNP,	Union Pacific Corp	,0.28	
+SYK,	Stryker Corp	,0.27	
+LOW	,Lowe's Companies Inc	,0.27	
+CMCSA,	Comcast Corp Class A	,0.27	
+DHR,	Danaher Corp	,0.27	
+AMAT,	Applied Materials Inc	,0.26	
+ADP,	Automatic Data Processing Inc	,0.26	
+PANW,	Palo Alto Networks Inc	,0.26	
+TMUS,	T-Mobile US Inc	,0.25	
+ETN,	Eaton Corp PLC	,0.25	
+DE,	Deere & Co	,0.25	
+C,	Citigroup Inc	,0.25	
+COP,	ConocoPhillips	,0.24	
+MD,T	Medtronic PLC	,0.23	
+CB,	Chubb Ltd	,0.23	
+MMC,	Marsh & McLennan Companies Inc	,0.23	
+CRWD,	CrowdStrike Holdings Inc Class A	,0.22	
+BMY,	Bristol-Myers Squibb Co	,0.22	
+AMT,	American Tower Corp	,0.22	
+GEV,	GE Vernova Inc	,0.22	
+FI,	Fiserv Inc	,0.22	
+MO,	Altria Group Inc	,0.21	
+ELV,	Elevance Health Inc	,0.21	
+CME,	CME Group Inc Class A	,0.21	
+LMT,	Lockheed Martin Corp	,0.21	
+SO,	Southern Co	,0.21	
+PLD,	Prologis Inc	,0.20	
+WELL,	Welltower Inc	,0.20	
+CI,	The Cigna Group	,0.20	
+BX,	Blackstone Inc	,0.20	
+APH,	Amphenol Corp Class A	,0.20	
+ADI,	Analog Devices Inc	,0.20	
+DUK,	Duke Energy Corp	,0.20	
+ICE,	Intercontinental Exchange Inc	,0.20	
+KLAC,	KLA Corp	,0.20	
+LRCX,	Lam Research Corp	,0.19	
+SBUX,	Starbucks Corp	,0.19	
+MCK,	McKesson Corp	,0.19	
+MDLZ,	Mondelez International Inc Class A	,0.19	
+MU,	Micron Technology Inc	,0.18	
+WM,	Waste Management Inc	,0.18	
+TT,	Trane Technologies PLC Class A	,0.18	
+INTC,	Intel Corp	,0.18	
+EQIX,	Equinix Inc	,0.18	
+ANET,	Arista Networks Inc	,0.18	
+CVS,	CVS Health Corp	,0.18	
+CDNS,	Cadence Design Systems Inc	,0.17	
+AJG,	Arthur J. Gallagher & Co	,0.17	
+TDG,	TransDigm Group Inc	,0.17		
+ORLY,	O'Reilly Automotive Inc	,0.17
+SHW,	Sherwin-Williams Co	,0.17
+PH,	Parker Hannifin Corp	,0.16
+MSI,	Motorola Solutions Inc	,0.16
+MMM,	3M Co	,0.16
+AON,	Aon PLC Class A	,0.16
+KKR,	KKR & Co Inc Ordinary Shares	,0.16
+CL,	Colgate-Palmolive Co	,0.16
+CEG,	Constellation Energy Corp	,0.15
+CTAS,	Cintas Corp	,0.15
+COF,	Capital One Financial Corp	,0.15
+GD,	General Dynamics Corp	,0.15
+ZTS,	Zoetis Inc Class A	,0.15
+WMB,	Williams Companies Inc	,0.15
+UPS,	United Parcel Service Inc Class B	,0.15
+MCO,	Moodys Corp	,0.15
+SNPS,	Synopsys Inc	,0.15
+PYPL,	PayPal Holdings Inc	,0.14
+NKE,	Nike Inc Class B	,0.14
+NOC,	Northrop Grumman Corp	,0.14
+FTNT,	Fortinet Inc	,0.14
+DASH,	DoorDash Inc Ordinary Shares - Class A	,0.14
+ITW,	Illinois Tool Works Inc	,0.14
+CMG,	Chipotle Mexican Grill Inc	,0.14
+APD,	Air Products & Chemicals Inc	,0.13
+AZO,	AutoZone Inc	,0.13
+APO,	Apollo Global Management Inc Ordinary Sh...	,0.13
+BDX,	Becton Dickinson & Co	,0.13
+HCA,	HCA Healthcare Inc	,0.13
+EOG,	EOG Resources Inc	,0.13
+ECL,	Ecolab Inc	,0.13
+EMR,	Emerson Electric Co	,0.13
+NEM,	Newmont Corp	,0.13
+PNC,	PNC Financial Services Group Inc	,0.13
+REGN,	Regeneron Pharmaceuticals Inc	,0.13
+ROP,	Roper Technologies Inc	,0.13
+TRV,	The Travelers Companies Inc	,0.13
+USB,	U.S. Bancorp	,0.13
+JCI,	Johnson Controls International PLC Regis...	,0.12
+MAR,	Marriott International Inc Class A	,0.12
+HWM,	Howmet Aerospace Inc	,0.12
+BK,	Bank of New York Mellon Corp	,0.12
+AEP,	American Electric Power Co Inc	,0.12
+ADSK,	Autodesk Inc	,0.12
+COR,	Cencora Inc	,0.11
+ABNB,	Airbnb Inc Ordinary Shares - Class A	,0.11
+AFL,	Aflac Inc	,0.11
+ALL,	Allstate Corp	,0.11
+CSX,	CSX Corp	,0.11
+CARR,	Carrier Global Corp Ordinary Shares	,0.11
+CPRT,	Copart Inc	,0.11
+HLT,	Hilton Worldwide Holdings Inc	,0.11
+KMI,	Kinder Morgan Inc Class P	,0.11
+DLR,	Digital Realty Trust Inc	,0.11
+FCX,	Freeport-McMoRan Inc	,0.11
+OKE,	ONEOK Inc	,0.11
+NSC,	Norfolk Southern Corp	,0.11
+O,	Realty Income Corp	,0.11
+RSG,	Republic Services Inc	,0.11
+RCL,	Royal Caribbean Group	,0.11
+TFC,	Truist Financial Corp	,0.11
+WDAY,	Workday Inc Class A	,0.11
+NXPI,	NXP Semiconductors NV	,0.10
+PSA,	Public Storage	,0.10
+PAYX,	Paychex Inc	,0.10
+ROST,	Ross Stores Inc	,0.10
+SLB,	Schlumberger Ltd	,0.10
+SPG,	Simon Property Group Inc	,0.10
+SRE,	Sempra	,0.10
+PCAR,	PACCAR Inc	,0.10
+GWW,	W.W. Grainger Inc	,0.10
+GM,	General Motors Co	,0.10
+FICO,	Fair Isaac Corp	,0.10
+FAST,	Fastenal Co	,0.10
+FDX,	FedEx Corp	,0.10
+D,	Dominion Energy Inc	,0.10
+--,	Discover Financial Services	,0.10
+EXC,	Exelon Corp	,0.10
+KR,	The Kroger Co	,0.10
+KVUE,	Kenvue Inc	,0.10
+CCI,	Crown Castle Inc	,0.10
+AIG,	American International Group Inc	,0.10
+AMP,	Ameriprise Financial Inc	,0.10
+AXON,	Axon Enterprise Inc	,0.09
+CMI,	Cummins Inc	,0.09
+CTVA,	Corteva Inc	,0.09
+KDP,	Keurig Dr Pepper Inc	,0.09
+KMB,	Kimberly-Clark Corp	,0.09
+LHX,	L3Harris Technologies Inc	,0.09
+EW,	Edwards Lifesciences Corp	,0.09
+FIS,	Fidelity National Information Services I...	,0.09
+MSCI,	MSCI Inc	,0.09
+MPC,	Marathon Petroleum Corp	,0.09
+MET,	MetLife Inc	,0.09
+MNST,	Monster Beverage Corp	,0.09
+TGT,	Target Corp	,0.09
+PSX,	Phillips 66	,0.09
+PWR,	Quanta Services Inc	,0.09
+TEL,	TE Connectivity PLC Registered Shares	,0.09
+XEL,	Xcel Energy Inc	,0.09
+YUM,	Yum Brands Inc	,0.09
+VST,	Vistra Corp	,0.09
+URI,	United Rentals Inc	,0.09
+VRSK,	Verisk Analytics Inc	,0.09
+VLO,	Valero Energy Corp	,0.08
+PRU,	Prudential Financial Inc	,0.08
+PEG,	Public Service Enterprise Group Inc	,0.08
+TRGP,	Targa Resources Corp	,0.08
+TTWO,	Take-Two Interactive Software Inc	,0.08
+OTIS,	Otis Worldwide Corp Ordinary Shares	,0.08
+PCG,	PG&E Corp	,0.08
+F,	Ford Motor Co	,0.08
+ETR,	Entergy Corp	,0.08
+HES,	Hess Corp	,0.08
+DHI,	D.R. Horton Inc	,0.08
+ED,	Consolidated Edison Inc	,0.08
+CTSH,	Cognizant Technology Solutions Corp Clas...	,0.08
+CHTR,	Charter Communications Inc Class A	,0.08
