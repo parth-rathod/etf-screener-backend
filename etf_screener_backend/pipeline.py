@@ -31,11 +31,12 @@ class Pipeline:
         final_dict = {}
         keep_columns = ["Ticker", "Weight(%)"]
         new_df = df[keep_columns]
+        new_df.dropna(inplace=True)
         new_dict = new_df.to_dict(orient="split", index=False)
         for key, value in new_dict.items():
             if key == "data":
                 for row in value:
-                    final_dict[row[0]] = f"{row[1]:.2f}"
+                    final_dict[row[0].strip()] = f"{row[1]:.2f}"
 
         return final_dict
 

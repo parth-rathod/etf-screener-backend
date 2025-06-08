@@ -10,6 +10,7 @@ ALL_FILES = {
     "XLK": os.path.join(data_root, "XLK.csv"),
     "FLCOX": os.path.join(data_root, "FLCOX.csv"),
     "FSPGX": os.path.join(data_root, "FSPGX.csv"),
+    "SPMO": os.path.join(data_root, "SPMO.csv"),
 }
 
 
