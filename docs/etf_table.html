@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ETF Weightage</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <h2>ETF Table</h2>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search for a ticker..." oninput="filterTable()">
+    </div>
+    <div class="table-container">
+        <table id="csvTable"></table>
+    </div>
+
+    <script src="./etf_table.js"></script>
+</body>
+
+</html>
